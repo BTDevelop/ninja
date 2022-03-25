@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Ninja</id>
+    <version>1.0.0</version>
+    <title>Ninja</title>
+    <authors>Burak Tahtacıoğlu</authors>
+    <owners>Burak Tahtacıoğlu</owners>
+    <projectUrl>https://github.com/BTDevelop/ninja</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ninja - Simply Resiliency</description>
+    <summary>Ninja - Simply Resiliency Library.</summary>
+    <tags>ninja, resiliency, transient-fault, circuit breaker, retry mechanism</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\net6.0\Ninja.dll" target="lib\net6.0\Ninja.dll" />
+  </files>
+</package>
